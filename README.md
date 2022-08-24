@@ -17,7 +17,7 @@
   
   
   take the ssh link from repository
-git init
-git commit -am "first commit'
-git remote add origin git@github-COMPANY:Company/testing.git
-git push origin master
+  git init
+  git commit -am "first commit'
+  git remote add origin git@github-COMPANY:Company/testing.git
+  git push origin master
