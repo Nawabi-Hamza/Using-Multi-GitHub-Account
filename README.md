@@ -13,9 +13,7 @@
   HostName github.com
   User git
   IdentityFile ~/.ssh/id_rsa_COMPANY
-  
-  
-  
+# Open Your git to remote again
   take the ssh link from repository
   git init
   git commit -am "first commit'
